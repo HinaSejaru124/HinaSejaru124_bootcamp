@@ -1,0 +1,48 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: "https://fonts.google.com/specimen/Outfit";
+    font-size: 15px;
+}
+.container {
+    width: 45%;
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+    margin: 5% 25%;
+}
+.img {
+    border-radius: 20px;
+    display: flex;
+    margin: 10px;
+    object-position: center;
+}
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-family: outfit;
+    font-size: 50px;
+    text-align: center;
+    font-family: "https://fonts.google.com/specimen/Outfit";
+    font-size: 45px;
+    font-weight: 700;
+}
+.apart {
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    font-family: "https://fonts.google.com/specimen/Outfit";
+    font-size: 35px;
+    margin: 20px;
+    font-weight: 400;
+}
+.text {
+    margin: 20px;
+    padding: 10px;
+    font-family: "https://fonts.google.com/specimen/Outfit";
+    font-size: 15px;
+}
+.center {
+    text-align: center;
+}
+.attribution {
+    margin: 5% 25%;
+    text-align: center;
+}
